@@ -1,7 +1,16 @@
 # PongGame
 
 
-### Atari Pong Clone
+
+
+
+
+
+![Image of PongGame](https://github.com/nate51315/PongGame/blob/master/images/pong.png)
+
+
+
+### Atari Pong Clone  :video_game:
 This is a simple clone of the Atari pong game coded in Java. The project used (AWT) abstract window tooling kit for the graphical interface along with a couple Swing components.
 
 
