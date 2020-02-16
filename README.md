@@ -20,7 +20,7 @@ Keys | Direction
 **D** | :arrow_down:
 
 ## License
-This project is licensed under MIT. Please see [LICENSE file]()
+This project is licensed under MIT. Please see [LICENSE file](https://github.com/nate51315/InventoryApplication/blob/master/LICENSE)
 
 
 
