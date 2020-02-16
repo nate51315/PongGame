@@ -1,73 +1,18 @@
 # PongGame
 
-
-
-
-
-
-
-![Image of PongGame](https://github.com/nate51315/PongGame/blob/master/images/pong.png)
-
-
+<a href="https://imgur.com/VcKIYT5"><img src="https://i.imgur.com/VcKIYT5.gif" title="source: imgur.com" /></a>
 
 ### Atari Pong Clone  :video_game:
-This is a simple clone of the Atari pong game coded in Java. The project used (AWT) abstract window tooling kit for the graphical interface along with a couple Swing components.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+This is a simple clone of the Atari pong game coded in Java.
 
 
 ### Requirements
-* Java Development Kit [(JDK)](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
-* Java Runtime Environment [(JRE)](https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html)
+* Java Development Kit 
+* Java Runtime Environment
 
 
 ### How to run the app
-1. Download the app then run it inside an IDE
+1. Download or clone the app then run it inside an IDE
 2. Download and run it in the cli
 
 
