@@ -2,7 +2,7 @@
 
 <a href="https://imgur.com/VcKIYT5"><img src="https://i.imgur.com/VcKIYT5.gif" title="source: imgur.com" /></a>
 
-### Atari Pong Clone  :video_game:
+### :video_game: Atari Pong Clone
 This is a simple clone of the Atari pong game coded in Java.
 
 ### Installation
