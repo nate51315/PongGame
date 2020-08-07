@@ -1,4 +1,4 @@
-# PongGame
+# Pong Game
 
 <a href="https://imgur.com/VcKIYT5"><img src="https://i.imgur.com/VcKIYT5.gif" title="source: imgur.com" /></a>
 
